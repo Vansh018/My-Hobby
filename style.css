@@ -29,3 +29,6 @@ body{
   .link:hover{
       background-color:bisque;
   }
+  html{
+      scroll-behavior: smooth;
+  }
